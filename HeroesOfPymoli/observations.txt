@@ -1,0 +1,5 @@
+1. While male players are the most prevalent gender, they actually have the lowest average spend per user.
+
+2. Players between the ages of 20-24 are the most prevalent age band and also account for the largest total spend.
+
+3. Players with higher total purchase values have lower average prices but their spend is attributable to more frequency.
